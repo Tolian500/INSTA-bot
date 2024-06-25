@@ -29,7 +29,7 @@ This project is an Instagram automation script that logs into an Instagram accou
 ## Setup
 1. **Clone the repository**
    ```bash```
-    ```git clone https://github.com/yourusername/instagram-automation-script.git```
+    ```git clone https://github.com/Tolian500/INSTA-bot.git```
     ```cd instagram-automation-script ```
    
    2. **Install dependencies** ```bash pip install selenium ```
